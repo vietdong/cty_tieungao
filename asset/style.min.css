@@ -614,7 +614,7 @@
   
   .checkvip .header_checkvip .link_bxh p {
     font-size: 16px;
-    padding-top: 18px;
+    padding-top: 25px;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     font-family: 'umtgodswordbold';
@@ -1726,7 +1726,7 @@
   }
   
   .qua_thang .header_quathang .right_header .tit_right_header {
-    font-family: 'umtgodswordr';
+    font-family: trajan !important;
     font-size: 46px;
   }
   
