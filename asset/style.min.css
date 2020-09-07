@@ -526,7 +526,7 @@
       font-size: 13px !important;
   }
   .topvip .list_name_user .item .name_1 {
-    font-family: 'tahomabold';
+    font-family: 'Impact';
     font-size: 19px;
     color: #ffff00;
   }
@@ -950,7 +950,7 @@
     position: fixed;
     right: 10px;
     z-index: 99;
-    top: 860px;
+    top: 300px;
   }
   
   .anchor.run {
@@ -1666,7 +1666,7 @@
   .qua_thang .header_quathang .left_header .text_left {
     width: 190px;
     float: left;
-    padding-top: 10px;
+    padding-top: 22px;
     padding-left: 10px;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
