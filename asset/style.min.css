@@ -11,6 +11,10 @@
     font-family: trajan;
     src: url('../trajan-pro-3_942.otf');
   }
+  @font-face {
+    font-family: impact;
+    src: url('../utm-impact.ttf');
+  }
   a,abbr,acronym,address,applet,big,blockquote,body,caption,cite,code,dd,del,dfn,div,dl,dt,em,fieldset,font,form,h1,h2,h3,h4,h5,h6,html,iframe,ins,kbd,label,legend,li,object,ol,p,pre,q,s,samp,small,span,strike,strong,sub,sup,table,tbody,td,tfoot,th,thead,tr,tt,ul,var {
     border: 0;
     font-family: inherit;
@@ -252,7 +256,7 @@
     margin: 0px auto;
     width: 100%;
     overflow-x: hidden!important;
-    background: url(./bg_all.jpg) no-repeat center top, #0e1116;
+    background: url(./landingpage_vip.jpg) no-repeat center top, #0e1116;
   }
   
   .container {
@@ -498,7 +502,7 @@
   .topvip .list_name_user .item {
     float: left;
     font-size: 20px;
-    font-family: 'tahomabold';
+    font-family: 'Impact';
     width: 189px;
     height: 75px;
     text-align: center;
